@@ -1,4 +1,4 @@
-Note: This fork is under development, recommend not using this until further notice.
+Note: This fork is under development, recommend not using this until further notice. - Forked by https://www.iscribed.com
 
 Python script to transcribe audio files of any format, using the Google Chromium Speech-to-Text API.
 
